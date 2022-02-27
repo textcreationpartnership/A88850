@@ -1,0 +1,607 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bribe-takers of jury-men partiall, dishonest, and ignorant discovered and abolished; and, honest, judicious, able, and impartiall restored; and their equall election to try causes, and find inquests. / Written, proposed, and tendred to the same intent and purpose as all the former proposalls, to and for the saving to the honest people of this nation the thirty hundred thousand pounds yearly are. By William Leach of the Middle-Temple.</title>
+            <author>Leach, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88850</idno>
+            <idno type="STC">Wing L772</idno>
+            <idno type="STC">Thomason E659_1</idno>
+            <idno type="STC">ESTC R202689</idno>
+            <idno type="EEBO-CITATION">99862890</idno>
+            <idno type="PROQUEST">99862890</idno>
+            <idno type="VID">115070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115070)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E659[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bribe-takers of jury-men partiall, dishonest, and ignorant discovered and abolished; and, honest, judicious, able, and impartiall restored; and their equall election to try causes, and find inquests. / Written, proposed, and tendred to the same intent and purpose as all the former proposalls, to and for the saving to the honest people of this nation the thirty hundred thousand pounds yearly are. By William Leach of the Middle-Temple.</title>
+                  <author>Leach, William.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill. 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jury --  England --  Early works to 1800.</term>
+               <term>Bribery --  England --  Early works to 1800.</term>
+               <term>Judicial corruption --  England --  Early works to 1800.</term>
+               <term>Estates (Law) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:115070:1" rendition="simple:additions"/> 
+               <hi>THE BRIBE-TAKERS OF JURY-MEN</hi>
+Partiall, Diſhoneſt, and Ignorant <hi>DISCOVERED and ABOLISHED;</hi>
+            </p>
+            <p>
+               <hi>AND,</hi> Honeſt, Judicious, Able, and Impartiall
+<hi>RESTORED;</hi>
+            </p>
+            <p>
+               <hi>And their equall Election to</hi> Try Cauſes, <hi>and</hi>
+Find Inqueſts.</p>
+            <p>Written, propoſed, and tendred to the ſame intent and
+pur<g ref="char:EOLhyphen"/>poſe as all the former Propoſalls, to and for the ſaving to the
+Honeſt people of this Nation the thirty hundred thouſand pounds yearly
+are.</p>
+            <p>
+               <hi>By WILLIAM LEACH of the Middle-Temple.</hi>
+            </p>
+            <p>LONDON, <hi>Printed by</hi> E. Cotes, <hi>in the Year</hi>
+1652.</p>
+            <pb facs="tcp:115070:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:115070:2"/>
+            <head>THE BRIBE-TAKERS OF JVRI-MEN, &amp;c.</head>
+            <p>THe Eſtates of Jury' men in theſe modern times, being far
+leſſe in value, according as now the prices, and rates of Lands, Cattell,
+Chattals, all manner of Victu<g ref="char:EOLhyphen"/>all, and other Commodities, Wares, and
+Merchan<g ref="char:EOLhyphen"/>dizes now are, and in theſe latter times have been uſually bought
+and ſold for, then they have been in antient times: And whereas in theſe
+latter times (and eſpecially in inferiour Courts) many not onely indigent,
+but keepers of Alehouſes, and other places of Tipling, and the meaner and
+worſer ſort of their Gueſts, Aſſociates, and Adherents have by
+Sheriffs, or by their Deputies, Bayliffs, Serjeants, or other their inferiour
+Officers, or Miniſters been returned, impannelled, and ſworn for the
+tri<g ref="char:EOLhyphen"/>all and inquiry upon, of, in, and concerning divers Actions, Cauſes, and
+Suites, ſome of very great, and others of conſide<g ref="char:EOLhyphen"/>rable value, and by
+reaſon of the great influence or power (which ſuch Bayliffs, Deputies,
+Serjeants, and other inferiour Officers, and Miniſters have had upon, and
+over ſuch Alemen and Tiplers) they with ſuch their Aſſociates and
+Adherents have given and found Verdicts and Inqueſts in, and concerning many
+ſuch Actions, Cauſes, and Suits, quite contrary to their Evidence, (which
+they have received from credible witneſſes) and againſt all truth,
+reaſon, and ſenſe, for the filthy lucre of ſuch, whom they have
+perceived, or found, that any of ſuch Deputies, Bay<g ref="char:EOLhyphen"/>liffs, Serjeants at Mace,
+or other ſuch inferour Officers, or Mini<g ref="char:EOLhyphen"/>ſters (who have been their
+continuall Gueſts and Cuſtomers, and wiſhed them many ſuch others) have
+favoured or had in eſti<g ref="char:EOLhyphen"/>mation.</p>
+            <p>And whereas by the Lawes and Statutes of this Nation as yet, the
+Jurors who have found, or ſhall finde leſſe damages, then they ought and
+have had evidence for, and the Inquiſitors or <pb n="4" facs="tcp:115070:3"/> Jurors upon
+inqueſts have found quite contrary to that which according to the evidence,
+which they have had given, then they ought to have found, and for divers other
+inconveniences, and miſchiefs, which have too often happened to the honeſt
+people of this Nation, by the machinations, frauds, negligence, and ignorance
+of ſuch Jurors and Inquiſitors) are not ſubject to any loſſe or
+penalty.</p>
+            <p>And whereas divers honeſt Jurymen (being weak, and ſickly men)
+of late years often times have been put to great extremity, by croſſe and
+froward men of the ſame Jury, on which they have been impannelled; who have
+unconſcionably and unlaw<g ref="char:EOLhyphen"/>fully gained the major part of that Jury to be on
+their ſide, a<g ref="char:EOLhyphen"/>gainſt all ſenſe, right, and reaſon, and favoured one
+of the par<g ref="char:EOLhyphen"/>ties in the ſuit; for the triall of which they have been
+im<g ref="char:EOLhyphen"/>pannelled and ſworn (which of late years hath been too fre<g ref="char:EOLhyphen"/>quent, the
+ſame being ſeldome heard of in ancient times) ſome<g ref="char:EOLhyphen"/>times by keeping
+ſome of the moſt honeſt parties of them long faſting, and in the cold;
+whereby they have been much weak<g ref="char:EOLhyphen"/>ned, and by kicking, hunching, nipping,
+pinching, and beat<g ref="char:EOLhyphen"/>ing, and ſitting upon them, and otherwiſe injuring
+others of them; when they have been mewed up in the dark, and ſome<g ref="char:EOLunhyphen"/>times in
+extreme cold weather, without fire, or other light, or any other lodging then
+on the ground or boards; ſuch Jurors by the Lawes now, being to be kept
+together, and not to depart the one from the other, not to eat or drink till
+all of them (af<g ref="char:EOLhyphen"/>ter they have heard, and received their evidence, and departed
+from the bar) have agreed upon, and given in, or delivered up their
+Verdicts.</p>
+            <p>And whereas by the Lawes of this Nation the Jurors (which have
+found or ſhall find leſſe damage, then they ought, according to the
+evidence which hath been given them) are ſubject to no attaint; neither is
+any Statute or Act made, or provided for any penalty againſt any Jurors or
+Inquiſitors, (who upon any Writ of inquiry of damages, or other inqueſt)
+have found, or ſhall find contrary to their evidence.</p>
+            <p>And for that now, the Judgement againſt Jurors to be found
+guilty in attaint, is extreme villanous, and may as well fall upon the innocent
+(which may be occaſioned by the extre<g ref="char:EOLhyphen"/>mities <pb n="5" facs="tcp:115070:3"/> before
+mentioned) as on the guilty: and the penalty of imbracery is but ſmall, and
+the offence very difficult to be diſcovered.</p>
+            <p>And whereas of late years there hath been much difficulty, charge,
+and trouble, in procuring honeſt, indifferent, and able Jury-men to be
+returned and impannelled.</p>
+            <p>And whereas Jury-men of late years have too often for wick<g ref="char:EOLhyphen"/>ed
+lucre, or illegall affection found, and given Verdicts and In<g ref="char:EOLhyphen"/>queſts
+againſt their Conſciences, and Evidences; for ſuch, from whom they have
+had, or expected gain, eaſe, or favour, or have feared, or envied.</p>
+            <p>And whereas in theſe latter times Sheriffs have been more
+careleſſe and negligent in returning honeſt and able men for Grand
+Jury-men, or the great Inqueſt, then in former times they have been; and for
+gain and favour have ſpared and for<g ref="char:EOLhyphen"/>borne the returning or impannelling of
+Knights, Eſquires, and Gentlememen, and the better ſort, for that
+imployment, which would have been much for their benefit and learning, and
+brought them to a deſire, and love of Religion, Honeſty, and Ver<g ref="char:EOLhyphen"/>tue, and
+an abomination of debauchedneſſe, and all other wick<g ref="char:EOLhyphen"/>edneſſe; and in to
+a delight to do good, and exerciſe their talent for the good of themſelves,
+their poſterity, and the honeſt Chri<g ref="char:EOLhyphen"/>ſtian people in generall, according
+to their duties, and to live ſuch a godly and vertuous life, that they may be
+alwayes prepa<g ref="char:EOLhyphen"/>pared for death, and never fear it; which will be a good exam<g ref="char:EOLhyphen"/>ple
+to their inferiours to doe the like, and bring all, who ſhall ſo doe into a
+union in vertue and godlineſſe, without falling out, and circumventing, or
+defrauding one the other.</p>
+            <p>And whereas more honeſt fit, and able men for Sheriffs and
+Coroners might have been choſen, then of late years have been.</p>
+            <p>And whereas by the long eſcape of Jury-men from the pe<g ref="char:EOLhyphen"/>nalty of
+imbracery, or taking money, or rewards, or accepting promiſes to ſay, or
+give their Verdicts; by the means of the difficulty of the diſcovery thereof
+before-mentioned, ſome of them have been ſo bold, and impudent, that they
+have made it as it were a Trade to procure themſelves to be upon Juries, and
+to make prey of the Suiters in divers cauſes, ſome of ſuch Jury-men (when
+they have found againſt their evidence, and have <pb n="6" facs="tcp:115070:4"/> met the
+parties whom they have wronged by their falſe Ver<g ref="char:EOLhyphen"/>dicts) having ſaid to
+ſuch injured perſons, that the cauſe ſhould have gone for them, if they
+had come to them firſt, and dealt with them about the buſineſſe.</p>
+            <p>And too often divers (Jurors being all or the moſt part of them
+of the ſame Profeſſion, Art, Myſtery, or calling of one of the parties
+in the Action, Cauſe or Suit, upon which they have been impannelled,
+retorned, and ſworn) have ſometimes found contrary to their evidence
+againſt the other party or parties therein; who hath been of another Quality,
+Condition, Sci<g ref="char:EOLhyphen"/>ence, Profeſſion, Art, Myſtery, or calling, which, or the
+profeſ<g ref="char:EOLhyphen"/>ſors thereof they have hated, or envyed: and at other time have
+given exceſſive, or too much damages againſt ſuch party, or par<g ref="char:EOLhyphen"/>ties in
+ſuch Action, Cauſe, or ſuite, (whom, or ſuch his Qua<g ref="char:EOLhyphen"/>lity, Condition,
+Science, Art, Myſtery, or Calling, they have ſo hated, and envyed.)</p>
+            <div n="Act" type="proposal">
+               <p>It is propoſed to be deſired that it may <hi>Be
+Enacted,</hi> That hereafter no Sheriff ſhall return, or impan<g ref="char:EOLhyphen"/>nell any man
+to be upon any Jury to try any Cauſe, Action, or Suit; or to make any inquiry
+concerning the ſame, being of the value of, or by the ſame demanded 40
+ſhillings, or above; un<g ref="char:EOLhyphen"/>leſſe ſuch man ſhall be commonly reputed by
+his neighbours to have an eſtate in Lands, or Tenements, Goods, or Chattalls,
+(over and above all charges, iſſues, and repriſes, and beſides,
+ſuf<g ref="char:EOLhyphen"/>ficient to pay, or ſatisfie all his Debts) to the value of 40l. to be
+ſold, or above, for every 40 ſhillings of ſuch value, or ſo to be
+demanded, and according to the ſame value ſhall be taxed, or
+aſſeſſed to, or for, the relief of the poor, and other pariſh
+taxa<g ref="char:EOLhyphen"/>tions in the pariſh, where he ſhall be inhabiting, or dwelling, and be
+a free denizen of this Nation.</p>
+               <p>And that if any man ſuſpected (by any plaintif or plaintifs,
+de<g ref="char:EOLhyphen"/>fendant or defendants, demandant or demandants, tenant or te<g ref="char:EOLhyphen"/>nants) to be
+otherwiſe, ſhall be retorned, or impannelled upon, for, or concerning any
+ſuch cauſe ſo to be tryed, or inquired of, that then (at the requeſt
+and challenge of any of ſuch plaintif or plaintifs, defendant or defendants,
+demandant or demandants, tenant or tenants &amp; Oath by him, her, or them, or
+any perſon of <pb n="7" facs="tcp:115070:4"/> ſuch credit, or ſo commonly accounted,
+made to the contrary of ſuch repute) the Judg or Judges, Juſticiar or
+Juſticiars, Sheriff or Sheriffs, Mayor or Mayors, Steward or Stewards, or
+other Officer or Officers (who ſhall try ſuch Cauſe, or take ſuch
+In<g ref="char:EOLhyphen"/>queſt, or before whom ſuch Cauſe ſhall be tryed, or Inqueſt taken)
+ſhall put every ſuch perſon ſo Retorned, or impannel<g ref="char:EOLhyphen"/>led to be a
+Jury-man ſo ſuſpected, upon, or to his Oath, before ſuch perſon
+ſhall be ſworn to try ſuch Cauſe, or ſo to inquire, whether or not he
+then have ſuch an eſtate to, or of ſuch value over and above all charges,
+iſſues, and repriſes, ſufficient to pay, or ſatisfie all his debts;
+beſides, and that if the ſame perſon to be a Juror ſhall not depoſe
+upon his Oath that he then have ſuch an eſtate; then ſuch perſon
+ſhall not be ſworn upon, for, or concerning ſuch triall or Inqueſt, but
+ſhall be rejected; and ano<g ref="char:EOLhyphen"/>ther having ſuch Eſtate, or not excepted
+againſt in that behalf, ſhall be ſworn ſo to try, or inquire in his
+place and ſtead.</p>
+               <p>And that ſuch Judge or Judges, Juſticiar or Juſticiars,
+Juſtice or Juſtices, Sheriff or Sheriffs, Mayor or Mayors, be impowered,
+authoriſed, and compelled to adminiſter, and take ſuch Oath, being ready
+drawn and tendred to them in writing, without, ta<g ref="char:EOLhyphen"/>king any thing for the ſame
+directly, or indirectly.</p>
+               <p>And that every ſuch man ſo to be retorned, or impannelled,
+or make Oath, and depoſe falſe, ſhall be ſubject, and liable to all the
+paines and penalties enacted and provided in, and by the Lawes and Statutes of
+this Nation againſt perjured perſons.</p>
+               <p>And that if any the men Retorned, or impannelled and ſworn of,
+or upon any Jury or Inqueſt in, or concerning any Action, Cauſe, or Suit,
+after they have heard, or ſhall hear their Evi<g ref="char:EOLhyphen"/>dence concerning the ſame,
+and their charge given to them, or taken concerning the ſame, and ſhall
+depart from the Bar, where, or from him, or them, before whom (having authority
+in that be<g ref="char:EOLhyphen"/>half) they received, or ſhall receive the ſame, and ſtay by
+the ſpace of 4 hours; then next after, before they do, or ſhall retorn
+thither, or before him, or them, before whom they ſo received, or took, or
+ſhall receive, or take the ſame Evidence, that then every of ſuch Jury or
+Inqueſt men ſhall have one little white ball, and another black delivered
+unto him, and that when the major or greater part of the men of ſuch Jury or
+Inqueſt be, or ſhall be agreed to <pb n="8" facs="tcp:115070:5"/> give in their Verdict
+or Inqueſt found, or to be found concern<g ref="char:EOLhyphen"/>ing the ſame; then every of them
+who ſhall finde, or give their Verdict or Inqueſt for ſuch plaintif or
+plaintifs, demandant or demandants, in ſuch Cauſe, Action or Suit, ſhall
+and may deliver, and put a white ball wrapped in a note, or peice of paper,
+with his name therein written; and ſuch black ball without any thing about
+the ſame into a box, or bagge privately to be kept for that purpoſe by him,
+or them, before whom ſuch Verdict or Inqueſt be, or ſhall be to be given,
+or delivered up, or to his, or their Deputy or Deputies; and that every of them
+(who ſhall finde, or give their Verdict or Inqueſt, for ſuch defendant or
+defendants, tenant or tenants in the ſame Cauſe, Action, or Suit) ſhall
+and may deliver, and put ſuch black ball ſo wrap<g ref="char:EOLhyphen"/>ped in a piece of paper,
+with his name therein written, and ſuch white ball, without any thing about
+the ſame into ſuch box or bag ſo to be kept.</p>
+               <p>And that every of ſuch of him or them (before whom ſuch
+Verdict or Inqueſt is, or ſhall be to be given or delivered up) be
+impowered and compelled to keep ſuch note ſecret, and not ſuffer or
+permit any to ſee, or know the contents of the ſame; neither ſhall any of
+ſuch Jurors reveal to any other what note he ſhall ſo deliver, till after
+an attaint brought againſt ſuch Jurors, or Inqueſt men, or—years
+paſt, after ſuch Verdict be, or ſhall be delivered up, but onely ſuch
+Judge or Judges, Juſticiar or Juſticiars, Juſtice or Juſtices, Sheriff
+or Sheriffs, Mayor or Mayors (before, or to whom ſuch Balls be, or ſhall be
+delivered) ſhall declare and pronounce, for which party in ſuch Action,
+Cauſe, or Suit, moſt of ſuch notes, or pieces of paper were ſo
+delivered, or put into ſuch Box or Bag: And then Judgement or Judgements, or
+other proceedings ſhall be given, and goe, and be for him, or them (for whom
+moſt of ſuch notes or pa<g ref="char:EOLhyphen"/>pers ſhall be ſo delivered, or put, and
+ſtand, be good and avail<g ref="char:EOLhyphen"/>able in Law to all intents and purpoſes, untill
+the ſame be, or ſhall be ſtayed by matter to be moved in arreſt of
+Judgement be<g ref="char:EOLhyphen"/>fore the ſame ſhall be entred, or after reverſed by writ of
+Errour or Attaint.)</p>
+               <p>And that if ſuch Jurors be agreed, the one half of them to
+finde for the one party or parties in ſuch Action, Cauſe, or Suit,
+<pb n="9" facs="tcp:115070:5"/> and the other half of thoſe Jurors for the other party or
+parties in, or to ſuch Action, Cauſe, or Suit, when ſuch Balls ſhall be
+delivered unto them all, they ſhall declare, and make known the ſame to the
+party or parties (whoſo do, or ſhall deliver ſuch Balls) and that then
+ſuch Judge or Judges, Juſticiar or Juſticiars, Sheriff or Sheriffs, Mayor
+or Mayors, Steward or Stewards, or ſuch other chief or head Officer or
+Of<g ref="char:EOLhyphen"/>ficers ſhall, and may, and be authorized to ſwear one, or three of
+ſuch qualified perſons for Jury-men (who ſtood, or ſhall ſtand by, or
+about, and in the hearing, when ſuch evidence was, or ſhall be given to
+ſuch former Jury-men to try ſuch Iſſue, or make ſuch Inquiry, and
+deliver unto every of them two ſuch white and black balls, and ſend thoſe
+one or three to the former twelve Jury-men; and that thoſe one or three be
+im<g ref="char:EOLhyphen"/>powered, and ſhall goe to, or be ſent back with the ſame twelve, and
+ſhall conferre with thoſe twelve about finding and giving their Verdict or
+Inqueſt to be given or found for, or concern<g ref="char:EOLhyphen"/>ing ſuch Iſſue or Inquiry,
+and after ſtaying with the ſaid twelve, by the ſpace of an hour, or
+leſſe, ſhall with them return to the ſaid chief, or head Officer or
+Officers, and with them deliver their Balls, as before is mentioned, and that
+then ſuch Judge<g ref="char:EOLhyphen"/>ment or Judgements, or proceedings thereupon ſhall be as
+be<g ref="char:EOLhyphen"/>fore is mentioned, and expreſſed.</p>
+               <p>And that any one (againſt whom any Judgement or proceed<g ref="char:EOLhyphen"/>ings
+ſhall be after, or upon ſuch Verdict or Inqueſt) may bring his attaint
+within one year next after ſuch Judgement, or after proceedings for the
+ſame to be tryed or inquired of again by 24 other Jury men qualified as
+aforeſaid, in the ſame County, City, Burrough, or Town, as the ſame were
+upon the ſame evidence given againſt, and for reverſall of the ſame, or
+for altering of the ſame, in giving or finding greater or leſſer damages
+concerning the ſame; and that ſuch 24 to be choſen out of 48 of ſuch
+qua<g ref="char:EOLhyphen"/>lified perſons, if they ſhall find that the ſaid Jury of the firſt
+in<g ref="char:EOLhyphen"/>queſt have made, or ſhall make a falſe Oath, or give, or finde a
+falſe Verdict or Inqueſt in, or concerning any ſuch Action, Cauſe, or
+Suit ſhall, and may reverſe or alter the ſame; or give, or finde greater
+or leſſer damages concerning the ſame; or other<g ref="char:EOLhyphen"/>wiſe to confirme the
+ſaid firſt Verdict or Inqueſt; and that the party or patties making
+ſuch Election, and bring ſuch Writ of <pb n="10" facs="tcp:115070:6"/> attaint be bound
+up by it, and ſhall have no other attaint con<g ref="char:EOLhyphen"/>cerning the ſame matter.</p>
+               <p>That none of any Jurymen hereafter ſhall be ſubject, or
+liable to any pain or penalty upon, or by any Attaint, or Writ of Attaint,
+other onely then ſuch who ſhall be found to be the guilty perſons, by, or
+for delivering in the greater part of ſuch notes or pieces of paper, if the
+matter ſhall be found againſt them; but that thoſe, (who ſhall deliver
+in the leſſer part of ſuch notes or pieces of paper, as ſoon as they
+ſhall obtain a certificate recorded in parchment from him or them, be<g ref="char:EOLhyphen"/>fore
+whom ſuch Verdict or Inqueſt be, or ſhall be taken, and ſhall deliver
+the ſame into the Court, where ſuch Writ of At<g ref="char:EOLhyphen"/>taint ſhall be returnable)
+ſhall from thence be quit of the ſame, and goe without day there.</p>
+               <p>And that in every County, City, and Town within this Na<g ref="char:EOLhyphen"/>tion,
+uſing to have a Sheriff or Sheriffs for the ſame; the Sheriff or Sheriffs
+thereof ſhall cauſe the names of the Free-holders and the men capable of
+being retorned to be Grand, or other Jury-men of; or for ſuch, his, or their
+reſpective County, City, or Town to be written, and a competent number
+thereof publiſhed in Print in his, or their reſpective County, City, or
+Town, and that he, or they ſhall, at a reaſonable rate deliver one paper,
+or book thereof to any (who ſhall have a Cauſe there to be tryed)</p>
+               <p>And that the ſame may be done by Mayors, Aldermen,
+Burgeſ<g ref="char:EOLhyphen"/>ſes, Bayliffs, and other head Officer or Officers of every City,
+Bur<g ref="char:EOLhyphen"/>rough, Town corporate, Cinque port, or other place (where a Corporation or
+other Court is, or ſhall be holden or kept, and no Sheriff or Sheriffs for
+the ſame.)</p>
+               <p>And that after iſſue joyned in any Action, Cauſe, or Suit,
+in any Court, the plaintif or plaintifs, defendant or defendants, de<g ref="char:EOLhyphen"/>mandant or
+demandants, tenant or tenants, in, or to the ſame within two dayes next after
+he, or his Attorney therein ſhall have notice thereof, may (giving notice
+thereof to the other party in the ſame Action, Cauſe, or Suit) take
+exceptions in writing (and deliver to ſuch Sheriff or Sheriffs, or ſuch
+chief or head Officer or Officers) againſt one third part of ſuch Jury-men;
+and that neither of the ſaid parties, his, or their Attorny or Attornies, or
+the ſaid the Sheriff or Sheriffs, or other ſuch <pb n="11" facs="tcp:115070:6"/> Officer
+or Officers ſhall let the other, his, her, or their Attorny or Attornies
+willingly know of any of ſuch to be Jurymen (againſt whom he, ſhe, or
+they doe, or ſhall ſo except) till ſuch Sherif or Sherifs, or other
+ſuch Officer or Officers have returned, or doe, or ſhall return (out of the
+reſidue of the ſaid men ſo ca<g ref="char:EOLhyphen"/>pable to be Jurors) a fit and impartiall
+Jury according to his, or their beſt endeavour or endeavours to try ſuch
+Actions, Cauſe, or Suit.</p>
+               <p>And that ſuch Sherif ſhall and may return 48 men for ſuch
+Jury, out of the remaining other third part onely, if both ſuch parties do,
+or ſhall ſo except; or only out of the one half of ſuch of perſons
+capable of being Jurymen, if but one of ſuch parties in ſuch Action,
+Cauſe or Suit do, or ſhall ſo except; unleſs both, or one of them do,
+or ſhall except againſt ſo many of the hundre<g ref="char:EOLhyphen"/>dors of the hundred, Town,
+Village, or Pariſh, where the Viſne of the ſaid Action, Cauſe, or Suit
+is, or ſhall be laid; that they ſhall not leave a ſufficient number of
+ſuch to be return'd Jurymen from thence, that without ſome of them to be
+returned there muſt of neceſſity be a failer in their tryall of the
+iſſue joyned in ſuch Action, Cauſe, or Suit: And that then ſuch
+Sherif or Sherifs, or other ſuch Officer or Officers may return ſome of
+thoſe ſo ex<g ref="char:EOLhyphen"/>cepted againſt to prevent ſuch failing.</p>
+               <p>And that if both parties cannot agree that ſuch Sherif or
+Sherifs, or other Officer or Officers ſhall return or impannell 24 out of
+thoſe 48, that then ſuch Sherif or Sheriffs, or other Officer or Officers
+ſhall, and may name ſome, or more, whom neither of the ſaid parties, his,
+her, or their Attorny or Attor<g ref="char:EOLhyphen"/>nies doe, or ſhall ſay, that they, or any of
+them doe, or ſhall know, to whom, or one of them ſuch Sherif or Sherifs, or
+other Officer or Officers before he ſpeak, ſend any other to any ſuch
+ſtrange perſon or perſons, ſhall ſend ſuch parties to ſuch
+Action, Cauſe, or Suit, if they will goe to ſuch ſtrange perſon or
+perſons, and that then immediately one of ſuch perſon or perſons
+ſhall ſet down in writing in the preſents of ſuch party or parties to
+ſuch Action, Cauſe, or Suit, his, her, or their Attorny or Attornies,
+having notice thereof, and doe at<g ref="char:EOLhyphen"/>tend ſuch ſtrange perſon or perſons;
+or of ſo many of them, as doe, or ſhall attend ſuch ſtrange perſon or
+perſons in that be<g ref="char:EOLhyphen"/>half, the names of ſuch 24 of thoſe 48 as are ſo to
+be returned; <pb n="12" facs="tcp:115070:7"/> and that immediately after ſuch Sherif, or
+other Officer or Of<g ref="char:EOLhyphen"/>ficers have, or ſhall have the ſame in writing, he, or
+they ſhall, and may return ſuch 24 for Jurymen as aforeſaid.</p>
+               <p>And that all Jurymen hereafter ſhall, and may have, and
+re<g ref="char:EOLhyphen"/>ceive, and be paid, or ſatisfied by ſuch Sherif, or other of ſuch
+Officer or Officers a competent allowance, for what they doe, or ſhall act,
+doe, or perform as Jurymen out of the fines and Amercements impoſed upon
+offenders and delinquents in every reſpective County, City, or other place
+before mentioned where ſuch Jurors doe, or ſhall ſerve as Jurymen) by and
+from ſuch Sherif, or other of ſuch Officers before mentioned, and that no
+Juryman ſhall take, or receive any thing, or promiſe agreement concerning
+the ſame of any party in any Action, Cauſe, or Suit, by reaſon of, or
+concerning the ſame either be<g ref="char:EOLhyphen"/>fore, or after tryall thereof, under penalties
+hereafter mentione.</p>
+               <p>And that the Inhabitants of every pariſh within this Nation,
+(being, or which ſhall be perſons of ſuch capacity for electing of
+members of future Parliaments, as is mentioned in the pro<g ref="char:EOLhyphen"/>poſition for the
+election of a new Parliament, or Repreſenta<g ref="char:EOLhyphen"/>tive) and other places, which be,
+or ſhall be incorporated with the ſame, ſhall and may; the firſt
+quarter of every year next after a Sherif be, or ſhall be conſtituted or
+ordained for the Country, or place, wherein ſuch pariſh be, or ſhall be,
+deliver in writing to the chief Conſtable of every Hundred, wherein ſuch
+hundred ſhall be; and of every City, Burrow, Town Corporate, or place before
+mentioned to the Mayor, Bayliffs, or other head, or chief Of<g ref="char:EOLhyphen"/>ficers of the
+ſame, the names of ſuch perſon or perſons dwelling or reſiding within
+the ſame, whom they ſhall conceive to be the fitteſt men in honeſty,
+judgement, and Eſtate to be Grand Jury-men in, and for ſuch reſpective
+County, City, or other place before mentioned: and that they ſhall
+expreſſe in every ſuch reſpective writing of what eſtate, every
+ſuch particular perſon for ſuch Grand Jury be, or ſhall be eſteemed
+to be of; and that every ſuch reſpective chief Conſtable, or other ſuch
+head, or chief Officer or Officers before mentioned ſhall, before the next
+generall quarter Seſſions of the publick Peace for the reſpective County,
+City, or other place before mentioned, deliver every of ſuch reſpective
+writing to the Sherif of, or for ſuch re<g ref="char:EOLhyphen"/>ſpective place: and that ſuch
+reſpective Sherif or Sherifs ſhall <pb n="13" facs="tcp:115070:7"/> return or impannell
+as many as ſhall be neceſſary for every ſuch reſpective place, only
+out of thoſe mentioned in ſuch reſpective note or writing, which in
+ſuch reſpective writing ſhall be ex<g ref="char:EOLhyphen"/>preſſed to be of greateſt
+Eſtates in ſuch reſpective County, or other place before mentioned,
+accounted to be of moſt honeſty and beſt underſtanding.</p>
+               <p>And that every of ſuch Sherif or Sherifs ſhall cauſe
+ſuch re<g ref="char:EOLhyphen"/>ſpective writing to him, or them ſo delivered, or to be delivered
+to be publiſhed in Print (with directions how, and where to find the ſame
+at a reaſonable rate, for ſo many as ſhall have oc<g ref="char:EOLhyphen"/>caſion to uſe any
+of the ſame) within convenient time next after the time that he, or they doe
+or ſhall receive, or have delivered or tendred to him or them ſuch note or
+writing.</p>
+               <p>And that if after the firſt quarter of every yeer expired the
+ma<g ref="char:EOLhyphen"/>jor part of ſuch qualified perſons, do or ſhall ſend, or deliver or
+tender unto ſuch Sherif or Sherifs ſuch reſpective note in wri<g ref="char:EOLhyphen"/>ting, as
+be mentioned in the ſaid recited Propoſalls, what per<g ref="char:EOLhyphen"/>ſons every ſuch
+reſpective perſon doe, or ſhall conceive to be moſt fit and qualified,
+as before is mentioned to be ſuch Grand Jurymen, that then ſuch
+reſpective Sherif or Sherifs ſhall re<g ref="char:EOLhyphen"/>turn or impannell ſo many (as
+ſhall be neceſſary and convenient for the place where; and for which he,
+or they be, or ſhall be ſuch Sherif or Sherifs) who ſhall have his name
+written in moſt of ſuch notes or writings to be the firſt or foreman of,
+and for ſuch Grand Jury; and that he whoſe name ſhall be written in the
+greater part (ſaving ſuch firſt) of ſuch notes or writings ſhall, and
+may be the ſecond man of, and for the ſame Grand Jury.</p>
+               <p>And that ſuch Sherif or Sherifs ſhall return, and impannell
+for ſuch Grand Jury, ſuch other of thoſe men, whoſe names ſhall be
+ſo written in moſt notes or writings, the one of them next, and immediately
+in order after the other of them, more then the ſaid firſt and ſecond of
+them, in order and degree as every of them reſpectively ſhall have his name
+written in ſuch notes or writings moſt often, the one of them after the
+other of them, untill ſuch Sherif or Sherifs ſhall have returned, and
+impannelled, and a competent number, or over, to be Grand Jury-men for ſuch
+reſpective County, or place before men<g ref="char:EOLhyphen"/>tioned.</p>
+               <p>
+                  <pb n="14" facs="tcp:115070:8"/> And that every ſuch Sherif ſhall keep
+ſuch a bag, or box, and in ſuch manner and form as is mentioned in the
+ſaid recited Propoſalls; and every ſuch note or writing (which ſhall be
+ſo delivered, or ſent to ſuch Sherif or Sherifs by any ſuch qualified
+perſon for returning of Grand Jury-men) ſhall be ſo put into ſuch box,
+ordered, taken out; or ſorted, and ſorted in ſuch manner and forme as is
+mentioned in thoſe Propoſalls for the notes and writings therein
+expreſſed.</p>
+               <p>And that ſuch Grand Jury-men ſo elected, or to be elected
+(as laſt is herein mentioned) ſhall, and may once in every re<g ref="char:EOLhyphen"/>ſpective
+Sheir, County, or other place before mentioned, keep ſuch box or bag, and
+every of them write ſeverall of ſuch notes of two, or more names of men
+(whom he conceiveth, or ſhall conceive to be moſt fit for ſuch Sherif or
+Sherifs, Coroner or Coroners (that is to ſay) one for ſuch Sherif or
+Sherifs, and another for ſuch Coroner or Coroners of, or for ſuch Coun<g ref="char:EOLhyphen"/>ty,
+or other place before mentioned;) and ſhall ſo lock, or ſeal upon the
+ſame in ſuch manner and forme as is mentioned in thoſe former Propoſals
+for a new Parliament or Repreſentative.</p>
+               <p>And that at the ſummer Aſſizes in every year in, and for
+ſuch reſpective place, ſuch Grand Jury-men, or as many of them, as
+ſhall then meet again ſhall, and may open, and unſeal ſuch Bag or Box,
+and take out, and ſort ſuch notes or writings in ſuch manner and form as
+is mentioned in thoſe recited Propoſitions or Propoſalls, and write, or
+cauſe to be writ<g ref="char:EOLhyphen"/>ten in parchment fairly the names of every one of thoſe
+perſons (whoſe names be, or ſhall be ſo written in ſeverall of ſuch
+notes or writings; the one of them in order next after the other of them, and
+thoſe for ſuch Sherif or Sherifs in one part of ſuch parchment, writing
+and the other for ſuch Coroner or Corners in another part of the ſame
+parchment writing:) And then ſuch Grand Jurymen, or ſome of them ſhall
+deliver ſuch parchment writing to the Juſtice or Juſtices, Juſtitiar or
+Juſti<g ref="char:EOLhyphen"/>ciars of, or for taking Aſſizes, and Goal delivery of, or for
+ſuch County, or other place before mentioned.</p>
+               <p>And that ſuch Juſtices or Juſticiars may ſelect the one
+half of ſuch ſeverall and reſpective names, for ſuch ſeverall and
+re<g ref="char:EOLhyphen"/>ſpective purpoſes, and deliver to the Supreme Authority of this Nation;
+or to ſuch other or others as they do, or will appoint, <pb n="15" facs="tcp:115070:8"/>
+or authoriſe to receive the ſame; and that they may chooſe out of the
+ſame names ſo many for ſuch reſpective imployment as they doe, or
+ſhall think convenient in that behalf.</p>
+               <p>And that if any Jury-man ſhall accept, receive, or take any
+money, reward, or thing of any, or promiſe of, for, or concer<g ref="char:EOLhyphen"/>ning the ſame
+of any perſon or perſons for giving, or to give; or ſaying, or to ſay,
+or making, or to make inquiry in, of, or concerning any Cauſe or Suit upon,
+or touching which, he ſhall be ſworn to give his Verdict, or make inquiry,
+ſhall forfeit and looſe to ſuch party or parties, againſt whom ſuch
+Verdict or Inqueſt, or more or leſſe damage, benefit, or advantage be, or
+ſhall be given, or found, the value of that which he or they ſhould have
+had if the contrary had been found.</p>
+               <p>That if any Action, Cauſe or Suit be, or ſhall be hereafter
+tryed or inquired of between a Trades-man or Trades-men, and another, or others
+of another or others, quality or qualities, condition or conditions,
+profeſſion or profeſſions, calling or callings, that then the writ or
+writs, precept or precepts, war<g ref="char:EOLhyphen"/>rant or warrants ſhall be made, granted,
+given, and go out only to ſummon or warn men to be of, or upon the Jury
+between ſuch party or parties, none of them to be of any ſuch qualities,
+profeſſions, conditions, callings or occupations of any ſuch par<g ref="char:EOLhyphen"/>ties in,
+or to ſuch Actions, Cauſe or Suit; or the one half of thoſe Jurymen to be
+not above, but under one half part of the quality, condition, profeſſion or
+calling of any ſuch plaintif or plaintifs, demandant or demandants, defendant
+or defendants, tenant or te<g ref="char:EOLhyphen"/>nants in, or concerning the ſame<hi>:</hi> And
+that upon the ſame writ or writs, precept or precepts warrant or warrants by
+the Officer or Officers (to whom the ſame be, or ſhall be directed) ſhall
+be returned ſuch perſons for Jury-men of ſuch ſeverall and reſpective
+qualities, profeſſions, conditions and callings and none other. And that
+for doing or acting by any contrary, or againſt any thing before mentioned,
+the party or parties grieved or damnified, or to be grieved or damnified
+thereby, ſhall and may recover, have, and receive the paines, penalties, and
+forfei<g ref="char:EOLhyphen"/>tures before herein mentioned, in manner and form as is menti<g ref="char:EOLhyphen"/>oned for,
+and concerning the recovery, having, obtaining, and receiving of the paines,
+penalties, and forfeitures mentioned in the former herein recited
+Propoſitions and Propoſalls.</p>
+               <div type="provision">
+                  <p>
+                     <pb n="16" facs="tcp:115070:9"/> 
+                     <hi>Provided,</hi>
+                  </p>
+                  <p>That any of the Jurymen before mentioned (which be, or ſhall
+be capable of trying, or making inquiry of, or concerning any Action, Cauſe,
+or Suite of the value of, or by which be, or ſhall be demanded 50<hi>l.</hi>
+or under) may, and ſhall be returned and impannelled for trying or inquiring,
+and may try and make inquiry of, or concerning any Action, Cauſe, or Suit of
+the value of, or by which be, or ſhall be demanded 1000<hi>l.</hi> or under:
+and the like to be done with, and by the half of ſuch Jurymen, with another
+half of double ſuch Eſtate of, for, or concerning any ſuch Action,
+Cauſe, or Suit, under the value of 2000<hi>l.</hi> or 3000<hi>l.</hi> and
+with another of treble ſuch Eſtate of, for, or con<g ref="char:EOLhyphen"/>cerning any Action,
+Cauſe, or Suit whatſoever, notwithſtand<g ref="char:EOLhyphen"/>ing any thing before
+mentioned.</p>
+               </div>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
